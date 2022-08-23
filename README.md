@@ -62,7 +62,7 @@ technology friendly people .
 
 ## Screenshots
 
-**Application UI **
+**Application UI**
 
 ![App UI ](https://user-images.githubusercontent.com/100015171/186198446-9d09c3d5-9f6d-4914-a478-cea5017f008f.jpg)
 
